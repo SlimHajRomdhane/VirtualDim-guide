@@ -20,7 +20,6 @@ body {
   position: relative;
 }
 
-
 #background-video {
   height: 100%;
   width: 100vw;
@@ -1554,4 +1553,11 @@ body {
 
 .js .animate-box {
   opacity: 0;
+}
+
+.iframe {
+  display: block;
+  margin: auto;
+  padding-top: 12%;
+  padding-bottom: 10%;
 }
